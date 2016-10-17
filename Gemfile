@@ -13,4 +13,6 @@ group :test do
   gem 'capybara'
   gem 'byebug'
   gem 'rspec-sinatra'
+  gem 'data_mapper'
+  gem 'dm-postgres-adapter'
 end
